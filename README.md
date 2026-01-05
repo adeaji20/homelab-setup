@@ -1,6 +1,5 @@
 # Virtual Home Lab
 This repository displays a step by step process on how I set up a virtual home lab.
-PS. Please refer to the Document "Building a Virtual IT Lab at Home - Step-by-Step Documentation", for the steps
 
 ## Purpose
 The home lab is designed to:
